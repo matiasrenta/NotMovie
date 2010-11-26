@@ -1,0 +1,372 @@
+TNotMovie1
+v7
+r0
+t311778274.918231
+cCheck dependencies
+cProcessInfoPlistFile /Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/Info.plist NotMovie1-Info.plist
+cCompileXIB /Users/kungfu/Documents/Pruebas/NotMovie1/MainWindow.xib
+cCompileXIB /Users/kungfu/Documents/Pruebas/NotMovie1/RootViewController.xib
+cCpResource build/Debug-iphonesimulator/NotMovie1.app/Default.png ../../../Downloads/Default.png
+cCpResource build/Debug-iphonesimulator/NotMovie1.app/noticias.png ../../../Downloads/noticias.png
+cCpResource build/Debug-iphonesimulator/NotMovie1.app/twitter-logo.png ../../../Downloads/twitter-logo.png
+cCpResource build/Debug-iphonesimulator/NotMovie1.app/podcast.png ../../../Downloads/podcast.png
+cProcessPCH /var/folders/IQ/IQx0Y3y8HXWHAM8CVzSIj++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NotMovie1_Prefix-atcdizgkfguhuifghctatnahwvnu/NotMovie1_Prefix.pch.gch NotMovie1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile /Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/NotMovie1.momd /Users/kungfu/Documents/Pruebas/NotMovie1/NotMovie1.xcdatamodeld
+cCompileC build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/Objects-normal/i386/main.o /Users/kungfu/Documents/Pruebas/NotMovie1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/Objects-normal/i386/NotMovie1AppDelegate.o /Users/kungfu/Documents/Pruebas/NotMovie1/Classes/NotMovie1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/Objects-normal/i386/RootViewController.o /Users/kungfu/Documents/Pruebas/NotMovie1/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/NotMovie1 normal i386
+cGenerateDSYMFile /Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app.dSYM /Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/NotMovie1
+cTouch /Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004C5A4E0B00000000001D2EC0
+t1280986635
+s1912512
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004C5A4DED000000000000046B
+t1280986605
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/usr/include/Availability.h
+c000000004C57A0390000000000001A5C
+t1280811065
+s6748
+
+N/Users/kungfu/Documents/Pruebas/NotMovie1/../../../Downloads/Default.png
+c000000004CE1DA45000000000003BB1A
+t1289869893
+s244506
+
+N/Users/kungfu/Documents/Pruebas/NotMovie1/../../../Downloads/noticias.png
+c000000004CE4D9DC000000000001442E
+t1290066396
+s82990
+
+N/Users/kungfu/Documents/Pruebas/NotMovie1/../../../Downloads/podcast.png
+c000000004CE4DC0F0000000000014000
+t1290066959
+s81920
+
+N/Users/kungfu/Documents/Pruebas/NotMovie1/../../../Downloads/twitter-logo.png
+c000000004CE4DAF00000000000006020
+t1290066672
+s24608
+
+N/Users/kungfu/Documents/Pruebas/NotMovie1/Classes/NotMovie1AppDelegate.h
+c000000004CE513B500000000000003F5
+t1290081205
+s1013
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/kungfu/Documents/Pruebas/NotMovie1/Classes/NotMovie1AppDelegate.m
+c000000004CE513B50000000000001F96
+t1290081205
+s8086
+i"NotMovie1AppDelegate.h"
+i"RootViewController.h"
+
+N/Users/kungfu/Documents/Pruebas/NotMovie1/Classes/RootViewController.h
+c000000004CE513B5000000000000024E
+t1290081205
+s590
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/kungfu/Documents/Pruebas/NotMovie1/Classes/RootViewController.m
+c000000004CE513B50000000000002EF0
+t1290081205
+s12016
+i"RootViewController.h"
+
+N/Users/kungfu/Documents/Pruebas/NotMovie1/MainWindow.xib
+c000000004CE5174C000000000000860D
+t1290082124
+s34317
+
+N/Users/kungfu/Documents/Pruebas/NotMovie1/NotMovie1.xcdatamodeld
+c000000004CE513B50000000000000088
+t1290081205
+s136
+
+N/Users/kungfu/Documents/Pruebas/NotMovie1/NotMovie1_Prefix.pch
+c000000004CE513B50000000000000167
+t1290081205
+s359
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/kungfu/Documents/Pruebas/NotMovie1/RootViewController.xib
+c000000004CE513B50000000000004454
+t1290081205
+s17492
+
+N/Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app
+t1290085474
+s408
+
+N/Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app.dSYM
+t1290085474
+s102
+
+N/Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/Default.png
+t1290085473
+s244506
+
+N/Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/Info.plist
+t1290085472
+s599
+
+N/Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/MainWindow.nib
+t1290085473
+s5055
+
+N/Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/NotMovie1
+t1290085474
+s31416
+
+N/Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/NotMovie1.momd
+t1290085474
+s136
+
+N/Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/PkgInfo
+t1290085472
+s8
+
+N/Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/RootViewController.nib
+t1290085473
+s1518
+
+N/Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/noticias.png
+t1290085473
+s82990
+
+N/Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/podcast.png
+t1290085473
+s81920
+
+N/Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/twitter-logo.png
+t1290085473
+s24608
+
+N/Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/Objects-normal/i386/NotMovie1.LinkFileList
+c000000004CE5246000000000000001A1
+t1290085472
+s417
+
+N/Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/Objects-normal/i386/NotMovie1AppDelegate.o
+t1290085474
+s65388
+
+N/Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/Objects-normal/i386/RootViewController.o
+t1290085474
+s64396
+
+N/Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/Objects-normal/i386/main.o
+t1290085474
+s6308
+
+N/Users/kungfu/Documents/Pruebas/NotMovie1/main.m
+c000000004CE513B50000000000000170
+t1290081205
+s368
+i<UIKit/UIKit.h>
+
+N/var/folders/IQ/IQx0Y3y8HXWHAM8CVzSIj++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NotMovie1_Prefix-atcdizgkfguhuifghctatnahwvnu/NotMovie1_Prefix.pch.gch
+t1290085474
+s10770668
+
+NNotMovie1-Info.plist
+c000000004CE513B5000000000000038D
+t1290081205
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies311778272#311778272#0(0"0(0#1#0"4231240#0"0#
+
+CCompileC build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/Objects-normal/i386/NotMovie1AppDelegate.o /Users/kungfu/Documents/Pruebas/NotMovie1/Classes/NotMovie1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311778274.564965
+e311778274.747237
+r1
+xCompileC
+xbuild/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/Objects-normal/i386/NotMovie1AppDelegate.o
+x/Users/kungfu/Documents/Pruebas/NotMovie1/Classes/NotMovie1AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/kungfu/Documents/Pruebas/NotMovie1/Classes/NotMovie1AppDelegate.m311778274#311778274#0(0"0(0#0#72"/Users/kungfu/Documents/Pruebas/NotMovie1/Classes/NotMovie1AppDelegate.m2416365504#2027"    cd /Users/kungfu/Documents/Pruebas/NotMovie1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/NotMovie1-generated-files.hmap -I/Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/NotMovie1-own-target-headers.hmap -I/Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/NotMovie1-all-target-headers.hmap -iquote /Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/NotMovie1-project-headers.hmap -F/Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator -I/Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/include -I/Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/DerivedSources/i386 -I/Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/DerivedSources -include /var/folders/IQ/IQx0Y3y8HXWHAM8CVzSIj++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NotMovie1_Prefix-atcdizgkfguhuifghctatnahwvnu/NotMovie1_Prefix.pch -c /Users/kungfu/Documents/Pruebas/NotMovie1/Classes/NotMovie1AppDelegate.m -o /Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/Objects-normal/i386/NotMovie1AppDelegate.o0#
+
+CCompileC build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/Objects-normal/i386/RootViewController.o /Users/kungfu/Documents/Pruebas/NotMovie1/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311778274.642496
+e311778274.794547
+r1
+xCompileC
+xbuild/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/Objects-normal/i386/RootViewController.o
+x/Users/kungfu/Documents/Pruebas/NotMovie1/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/kungfu/Documents/Pruebas/NotMovie1/Classes/RootViewController.m311778274#311778274#0(0"0(0#0#70"/Users/kungfu/Documents/Pruebas/NotMovie1/Classes/RootViewController.m2416365504#2023"    cd /Users/kungfu/Documents/Pruebas/NotMovie1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/NotMovie1-generated-files.hmap -I/Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/NotMovie1-own-target-headers.hmap -I/Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/NotMovie1-all-target-headers.hmap -iquote /Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/NotMovie1-project-headers.hmap -F/Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator -I/Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/include -I/Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/DerivedSources/i386 -I/Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/DerivedSources -include /var/folders/IQ/IQx0Y3y8HXWHAM8CVzSIj++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NotMovie1_Prefix-atcdizgkfguhuifghctatnahwvnu/NotMovie1_Prefix.pch -c /Users/kungfu/Documents/Pruebas/NotMovie1/Classes/RootViewController.m -o /Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/Objects-normal/i386/main.o /Users/kungfu/Documents/Pruebas/NotMovie1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s311778274.487976
+e311778274.564817
+r1
+xCompileC
+xbuild/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/Objects-normal/i386/main.o
+x/Users/kungfu/Documents/Pruebas/NotMovie1/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/kungfu/Documents/Pruebas/NotMovie1/main.m311778274#311778274#0(0"0(0#0#48"/Users/kungfu/Documents/Pruebas/NotMovie1/main.m2416365504#1987"    cd /Users/kungfu/Documents/Pruebas/NotMovie1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/NotMovie1-generated-files.hmap -I/Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/NotMovie1-own-target-headers.hmap -I/Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/NotMovie1-all-target-headers.hmap -iquote /Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/NotMovie1-project-headers.hmap -F/Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator -I/Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/include -I/Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/DerivedSources/i386 -I/Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/DerivedSources -include /var/folders/IQ/IQx0Y3y8HXWHAM8CVzSIj++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NotMovie1_Prefix-atcdizgkfguhuifghctatnahwvnu/NotMovie1_Prefix.pch -c /Users/kungfu/Documents/Pruebas/NotMovie1/main.m -o /Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/kungfu/Documents/Pruebas/NotMovie1/MainWindow.xib
+s311778272.498875
+e311778273.346125
+r1
+xCompileXIB
+x/Users/kungfu/Documents/Pruebas/NotMovie1/MainWindow.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/kungfu/Documents/Pruebas/NotMovie1/MainWindow.xib:13: warning: 'Root View Controller (This Is Not a Movie)' has both its 'View' and 'NIB Name' properties set. This configuration is not supported.
+lSLF07#2@25"CompileXIB MainWindow.xib311778272#311778273#0(244"/* com.apple.ibtool.document.warnings *//Users/kungfu/Documents/Pruebas/NotMovie1/MainWindow.xib:13: warning: 'Root View Controller (This Is Not a Movie)' has both its 'View' and 'NIB Name' properties set. This configuration is not supported.1(22@132"'Root View Controller (This Is Not a Movie)' has both its 'View' and 'NIB Name' properties set. This configuration is not supported.311778273#4294967295#0#0(6@56"/Users/kungfu/Documents/Pruebas/NotMovie1/MainWindow.xib311774924#13#0#13#0#0"0(0#0#56"/Users/kungfu/Documents/Pruebas/NotMovie1/MainWindow.xib4231240#581"    cd /Users/kungfu/Documents/Pruebas/NotMovie1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/MainWindow.nib /Users/kungfu/Documents/Pruebas/NotMovie1/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCompileXIB /Users/kungfu/Documents/Pruebas/NotMovie1/RootViewController.xib
+s311778272.500247
+e311778273.247822
+r1
+xCompileXIB
+x/Users/kungfu/Documents/Pruebas/NotMovie1/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib311778272#311778273#0(0"0(0#0#64"/Users/kungfu/Documents/Pruebas/NotMovie1/RootViewController.xib2416365504#597"    cd /Users/kungfu/Documents/Pruebas/NotMovie1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/RootViewController.nib /Users/kungfu/Documents/Pruebas/NotMovie1/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CCpResource build/Debug-iphonesimulator/NotMovie1.app/Default.png ../../../Downloads/Default.png
+s311778273.248184
+e311778273.259841
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NotMovie1.app/Default.png
+x../../../Downloads/Default.png
+lSLF07#2@35"Copy ../../../Downloads/Default.png311778273#311778273#0(0"0(0#0#72"/Users/kungfu/Documents/Pruebas/NotMovie1/../../../Downloads/Default.png2416365504#485"    cd /Users/kungfu/Documents/Pruebas/NotMovie1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kungfu/Documents/Pruebas/NotMovie1/../../../Downloads/Default.png /Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app0#
+
+CCpResource build/Debug-iphonesimulator/NotMovie1.app/noticias.png ../../../Downloads/noticias.png
+s311778273.249355
+e311778273.257315
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NotMovie1.app/noticias.png
+x../../../Downloads/noticias.png
+lSLF07#2@36"Copy ../../../Downloads/noticias.png311778273#311778273#0(0"0(0#0#73"/Users/kungfu/Documents/Pruebas/NotMovie1/../../../Downloads/noticias.png2416365504#486"    cd /Users/kungfu/Documents/Pruebas/NotMovie1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kungfu/Documents/Pruebas/NotMovie1/../../../Downloads/noticias.png /Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app0#
+
+CCpResource build/Debug-iphonesimulator/NotMovie1.app/podcast.png ../../../Downloads/podcast.png
+s311778273.252540
+e311778273.269984
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NotMovie1.app/podcast.png
+x../../../Downloads/podcast.png
+lSLF07#2@35"Copy ../../../Downloads/podcast.png311778273#311778273#0(0"0(0#0#72"/Users/kungfu/Documents/Pruebas/NotMovie1/../../../Downloads/podcast.png2416365504#485"    cd /Users/kungfu/Documents/Pruebas/NotMovie1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kungfu/Documents/Pruebas/NotMovie1/../../../Downloads/podcast.png /Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app0#
+
+CCpResource build/Debug-iphonesimulator/NotMovie1.app/twitter-logo.png ../../../Downloads/twitter-logo.png
+s311778273.250456
+e311778273.263250
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/NotMovie1.app/twitter-logo.png
+x../../../Downloads/twitter-logo.png
+lSLF07#2@40"Copy ../../../Downloads/twitter-logo.png311778273#311778273#0(0"0(0#0#77"/Users/kungfu/Documents/Pruebas/NotMovie1/../../../Downloads/twitter-logo.png2416365504#490"    cd /Users/kungfu/Documents/Pruebas/NotMovie1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/kungfu/Documents/Pruebas/NotMovie1/../../../Downloads/twitter-logo.png /Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app0#
+
+CDataModelVersionCompile /Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/NotMovie1.momd /Users/kungfu/Documents/Pruebas/NotMovie1/NotMovie1.xcdatamodeld
+s311778274.486283
+e311778274.642355
+r1
+xDataModelVersionCompile
+x/Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/NotMovie1.momd
+x/Users/kungfu/Documents/Pruebas/NotMovie1/NotMovie1.xcdatamodeld
+lSLF07#2@103"DataModelVersionCompile build/Debug-iphonesimulator/NotMovie1.app/NotMovie1.momd NotMovie1.xcdatamodeld311778274#311778274#0(0"0(0#0#64"/Users/kungfu/Documents/Pruebas/NotMovie1/NotMovie1.xcdatamodeld4231240#401"    cd /Users/kungfu/Documents/Pruebas/NotMovie1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/kungfu/Documents/Pruebas/NotMovie1/NotMovie1.xcdatamodeld /Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/NotMovie1.momd0#
+
+CGenerateDSYMFile /Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app.dSYM /Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/NotMovie1
+s311778274.887478
+e311778274.913340
+r1
+xGenerateDSYMFile
+x/Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app.dSYM
+x/Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/NotMovie1
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/NotMovie1.app.dSYM build/Debug-iphonesimulator/NotMovie1.app/NotMovie1311778274#311778274#0(0"0(0#0#93"/Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/NotMovie12416365504#398"    cd /Users/kungfu/Documents/Pruebas/NotMovie1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/NotMovie1 -o /Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app.dSYM0#
+
+CLd /Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/NotMovie1 normal i386
+s311778274.794677
+e311778274.887301
+r1
+xLd
+x/Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/NotMovie1
+xnormal
+xi386
+lSLF07#2@98"Link /Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/NotMovie1311778274#311778274#0(0"0(0#0#0"2416365504#945"    cd /Users/kungfu/Documents/Pruebas/NotMovie1    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -L/Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator -F/Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator -filelist /Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/Objects-normal/i386/NotMovie1.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o /Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/NotMovie10#
+
+CProcessInfoPlistFile /Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/Info.plist NotMovie1-Info.plist
+s311778272.390157
+e311778272.498725
+r1
+xProcessInfoPlistFile
+x/Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/Info.plist
+xNotMovie1-Info.plist
+lSLF07#2@28"Process NotMovie1-Info.plist311778272#311778272#0(0"0(0#0#62"/Users/kungfu/Documents/Pruebas/NotMovie1/NotMovie1-Info.plist4231240#494"    cd /Users/kungfu/Documents/Pruebas/NotMovie1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility NotMovie1-Info.plist -genpkginfo /Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app/Info.plist0#
+
+CProcessPCH /var/folders/IQ/IQx0Y3y8HXWHAM8CVzSIj++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NotMovie1_Prefix-atcdizgkfguhuifghctatnahwvnu/NotMovie1_Prefix.pch.gch NotMovie1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s311778273.346373
+e311778274.485965
+r1
+xProcessPCH
+x/var/folders/IQ/IQx0Y3y8HXWHAM8CVzSIj++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NotMovie1_Prefix-atcdizgkfguhuifghctatnahwvnu/NotMovie1_Prefix.pch.gch
+xNotMovie1_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile NotMovie1_Prefix.pch311778273#311778274#0(0"0(0#0#62"/Users/kungfu/Documents/Pruebas/NotMovie1/NotMovie1_Prefix.pch4231240#1874"    cd /Users/kungfu/Documents/Pruebas/NotMovie1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote /Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/NotMovie1-generated-files.hmap -I/Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/NotMovie1-own-target-headers.hmap -I/Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/NotMovie1-all-target-headers.hmap -iquote /Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/NotMovie1-project-headers.hmap -F/Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator -I/Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/include -I/Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/DerivedSources/i386 -I/Users/kungfu/Documents/Pruebas/NotMovie1/build/NotMovie1.build/Debug-iphonesimulator/NotMovie1.build/DerivedSources -c /Users/kungfu/Documents/Pruebas/NotMovie1/NotMovie1_Prefix.pch -o /var/folders/IQ/IQx0Y3y8HXWHAM8CVzSIj++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NotMovie1_Prefix-atcdizgkfguhuifghctatnahwvnu/NotMovie1_Prefix.pch.gch0#
+
+CTouch /Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app
+s311778274.913461
+e311778274.918164
+r1
+xTouch
+x/Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app
+lSLF07#2@89"Touch /Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app311778274#311778274#0(0"0(0#0#0"2416365504#286"    cd /Users/kungfu/Documents/Pruebas/NotMovie1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/kungfu/Documents/Pruebas/NotMovie1/build/Debug-iphonesimulator/NotMovie1.app0#
+

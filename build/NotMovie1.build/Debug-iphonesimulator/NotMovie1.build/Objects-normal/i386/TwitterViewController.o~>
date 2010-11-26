@@ -1,0 +1,147 @@
+/Users/kungfu/Documents/Pruebas/NotMovie1/Classes/TwitterViewController.m: In function '-[TwitterViewController tableView:didSelectRowAtIndexPath:]':
+/Users/kungfu/Documents/Pruebas/NotMovie1/Classes/TwitterViewController.m:141: error: 'DetailController' undeclared (first use in this function)
+/Users/kungfu/Documents/Pruebas/NotMovie1/Classes/TwitterViewController.m:141: error: (Each undeclared identifier is reported only once
+/Users/kungfu/Documents/Pruebas/NotMovie1/Classes/TwitterViewController.m:141: error: for each function it appears in.)
+/Users/kungfu/Documents/Pruebas/NotMovie1/Classes/TwitterViewController.m:141: error: 'nextController' undeclared (first use in this function)
+/Users/kungfu/Documents/Pruebas/NotMovie1/Classes/TwitterViewController.m: At top level:
+/Users/kungfu/Documents/Pruebas/NotMovie1/Classes/TwitterViewController.m:145: error: expected identifier or '(' before '/' token
+{standard input}:647:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L00000000005$pb"
+{standard input}:647:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+{standard input}:639:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L00000000005$pb"
+{standard input}:639:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression
+{standard input}:632:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_21" minus "L00000000005$pb"
+{standard input}:632:symbol: "L_OBJC_SELECTOR_REFERENCES_21" can't be undefined in a subtraction expression
+{standard input}:624:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L00000000005$pb"
+{standard input}:624:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+{standard input}:616:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L00000000005$pb"
+{standard input}:616:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+{standard input}:610:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_20" minus "L00000000005$pb"
+{standard input}:610:symbol: "L_OBJC_SELECTOR_REFERENCES_20" can't be undefined in a subtraction expression
+{standard input}:603:non-relocatable subtraction expression, "L_OBJC_IVAR_$_TwitterViewController.items$non_lazy_ptr" minus "L00000000005$pb"
+{standard input}:603:symbol: "L_OBJC_IVAR_$_TwitterViewController.items$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:594:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L00000000005$pb"
+{standard input}:594:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+{standard input}:586:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L00000000005$pb"
+{standard input}:586:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+{standard input}:578:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000005$pb"
+{standard input}:578:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+{standard input}:575:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_3" minus "L00000000005$pb"
+{standard input}:575:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_3" can't be undefined in a subtraction expression
+{standard input}:564:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L00000000005$pb"
+{standard input}:564:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression
+{standard input}:517:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L00000000004$pb"
+{standard input}:517:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+{standard input}:511:non-relocatable subtraction expression, "L_OBJC_IVAR_$_TwitterViewController.items$non_lazy_ptr" minus "L00000000004$pb"
+{standard input}:511:symbol: "L_OBJC_IVAR_$_TwitterViewController.items$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:468:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L00000000003$pb"
+{standard input}:468:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+{standard input}:464:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000003$pb"
+{standard input}:464:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+{standard input}:435:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L00000000002$pb"
+{standard input}:435:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+{standard input}:431:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000002$pb"
+{standard input}:431:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+{standard input}:401:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L00000000001$pb"
+{standard input}:401:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+{standard input}:395:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L00000000001$pb"
+{standard input}:395:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+{standard input}:387:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"
+{standard input}:387:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+{standard input}:381:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"
+{standard input}:381:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+{standard input}:375:non-relocatable subtraction expression, "L_OBJC_IVAR_$_TwitterViewController.item$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:375:symbol: "L_OBJC_IVAR_$_TwitterViewController.item$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:368:non-relocatable subtraction expression, "L_OBJC_IVAR_$_TwitterViewController.items$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:368:symbol: "L_OBJC_IVAR_$_TwitterViewController.items$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:359:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+{standard input}:359:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+{standard input}:351:non-relocatable subtraction expression, "L_OBJC_IVAR_$_TwitterViewController.item$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:351:symbol: "L_OBJC_IVAR_$_TwitterViewController.item$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:342:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+{standard input}:342:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+{standard input}:334:non-relocatable subtraction expression, "L_OBJC_IVAR_$_TwitterViewController.item$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:334:symbol: "L_OBJC_IVAR_$_TwitterViewController.item$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:326:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"
+{standard input}:326:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+{standard input}:320:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"
+{standard input}:320:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+{standard input}:314:non-relocatable subtraction expression, "L_OBJC_IVAR_$_TwitterViewController.item$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:314:symbol: "L_OBJC_IVAR_$_TwitterViewController.item$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:307:non-relocatable subtraction expression, "L_OBJC_IVAR_$_TwitterViewController.items$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:307:symbol: "L_OBJC_IVAR_$_TwitterViewController.items$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:298:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+{standard input}:298:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+{standard input}:290:non-relocatable subtraction expression, "L_OBJC_IVAR_$_TwitterViewController.item$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:290:symbol: "L_OBJC_IVAR_$_TwitterViewController.item$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:281:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+{standard input}:281:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+{standard input}:273:non-relocatable subtraction expression, "L_OBJC_IVAR_$_TwitterViewController.item$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:273:symbol: "L_OBJC_IVAR_$_TwitterViewController.item$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:265:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L00000000001$pb"
+{standard input}:265:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+{standard input}:259:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L00000000001$pb"
+{standard input}:259:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+{standard input}:253:non-relocatable subtraction expression, "L_OBJC_IVAR_$_TwitterViewController.item$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:253:symbol: "L_OBJC_IVAR_$_TwitterViewController.item$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:246:non-relocatable subtraction expression, "L_OBJC_IVAR_$_TwitterViewController.items$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:246:symbol: "L_OBJC_IVAR_$_TwitterViewController.items$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:237:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+{standard input}:237:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+{standard input}:229:non-relocatable subtraction expression, "L_OBJC_IVAR_$_TwitterViewController.item$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:229:symbol: "L_OBJC_IVAR_$_TwitterViewController.item$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:220:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L00000000001$pb"
+{standard input}:220:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+{standard input}:212:non-relocatable subtraction expression, "L_OBJC_IVAR_$_TwitterViewController.item$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:212:symbol: "L_OBJC_IVAR_$_TwitterViewController.item$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:204:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+{standard input}:204:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+{standard input}:198:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+{standard input}:198:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+{standard input}:195:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L00000000001$pb"
+{standard input}:195:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+{standard input}:190:non-relocatable subtraction expression, "L_OBJC_IVAR_$_TwitterViewController.item$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:190:symbol: "L_OBJC_IVAR_$_TwitterViewController.item$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:182:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L00000000001$pb"
+{standard input}:182:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+{standard input}:176:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L00000000001$pb"
+{standard input}:176:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+{standard input}:173:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L00000000001$pb"
+{standard input}:173:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+{standard input}:168:non-relocatable subtraction expression, "L_OBJC_IVAR_$_TwitterViewController.items$non_lazy_ptr" minus "L00000000001$pb"
+{standard input}:168:symbol: "L_OBJC_IVAR_$_TwitterViewController.items$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:160:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L00000000001$pb"
+{standard input}:160:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+{standard input}:153:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L00000000001$pb"
+{standard input}:153:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+{standard input}:145:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L00000000001$pb"
+{standard input}:145:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+{standard input}:140:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L00000000001$pb"
+{standard input}:140:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_TwitterViewController.items$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_TwitterViewController.item$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_3
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_20
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_21
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19
